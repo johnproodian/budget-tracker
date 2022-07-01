@@ -10,5 +10,10 @@ My contribution to this project was to make the app functional offline, using in
 ## Screenshot
 ![screenshot](screenshot/budget-tracker-screenshot2.png)
 
-## Link
+## Website
 https://shielded-eyrie-29611.herokuapp.com/
+
+## (Recently Learned) Skills I Used
+* using service workers to cache assets for offline functionality
+* converting an existing web application to a PWA
+* adding a web manifest to an application
