@@ -7,7 +7,7 @@ Given the starter code of a functioning web application, I was able to:
 
 ## Built With
 * JavaScript
-* MongoDB
+* NoSQL/MongoDB
 
 ## Screenshot
 ![screenshot](screenshot/budget-tracker-screenshot2.png)
@@ -16,6 +16,6 @@ Given the starter code of a functioning web application, I was able to:
 https://shielded-eyrie-29611.herokuapp.com/
 
 ## (Recently Learned) Skills I Used
-* using service workers to cache assets for offline functionality
-* converting an existing web application to a PWA
-* adding a web manifest to an application
+* Using service workers to cache assets for offline functionality
+* Converting an existing web application to a PWA
+* Adding a web manifest to an application
