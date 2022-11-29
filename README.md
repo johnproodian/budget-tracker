@@ -13,7 +13,7 @@ Given the starter code of a functioning web application, I was able to:
 ![screenshot](screenshot/budget-tracker-screenshot2.png)
 
 ## Website
-https://shielded-eyrie-29611.herokuapp.com/
+https://budget-tracker-app.up.railway.app/
 
 ## (Recently Learned) Skills I Used
 * Using service workers to cache assets for offline functionality
